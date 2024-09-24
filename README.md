@@ -538,4 +538,195 @@ O jogador que estiver retornando ao jogo tem duas opções de reborn:
 
 - O operador que for rendido não poderá gritar "morto" ou "rendido", saindo em silêncio com a bandeira branca acima da cabeça, assim dando crédito para o operador que foi mais esperto e competente.
 
+# Regras de Conduta
 
+## Cordialidade
+
+A prática do paintball, como a de qualquer esporte, presume que os seus participantes sejam providos de espírito esportivo. Um bom jogo em uma manhã de domingo deve ser uma experiência agradável e salutar, e não um motivo de stress e desentendimento.
+
+- Respeite seus colegas de equipe, rangers e demais organizadores, seus adversários e as pessoas que por ventura estiverem no local do evento, sejam trabalhadores do local, expectadores ou familiares dos participantes.
+- Trate os outros como gostaria de ser tratado. Mesmo durante o jogo e nos momentos de maior tensão, procure manter a calma. Gritos e xingamentos não vão eliminar seu adversário e nem alcançar o seu objetivo.
+- Na dúvida, chame um ranger e peça para ele verificar se o alvo foi atingido ou não (vide pág. 22 - Paint Check). Esse é um dos motivos para ele estar ali.
+
+## Segurança
+
+Apesar de seu marcador não ser uma arma, trate-o como se fosse, e como se estivesse sempre carregado.
+
+- Fora da área de combate, use sempre o protetor de cano (barrel socks ou barrel plug), mantenha o marcador travado, aponte-o sempre para baixo (posição sul) e evite deixar o dedo no gatilho.
+- Só efetue disparos na área de cronagem ou na zona de combate, durante a duração do mesmo. Evite disparar antes do início e depois do final de cada missão.
+- **Nunca remova a máscara enquanto estiver em zona de combate!** Mesmo que ache que está sozinho, ou que esteja se dirigindo para a Safety Zone, ou ainda que o jogo já tenha acabado, mantenha sempre a sua máscara no lugar.
+- Procure olhar onde pisa. Geralmente, os eventos de Real Action são em terrenos irregulares, em prédios em ruínas ou em matas fechadas. Sempre pode haver um buraco, uma saliência ou um animal venenoso em algum canto escondido.
+- Se em qualquer circunstância houver contato visual com transeuntes e pessoas não envolvidas no jogo, deverá ser solicitada a paralisação do jogo gritando “Civil” e utilizando o apito. A organização deverá ser comunicada imediatamente para poder tomar as devidas providências.
+- É expressamente proibido o contato físico com os operadores adversários, exceto quando o enredo apresentado pela organização assim o exigir, ou para a prática da rendição conforme definido anteriormente.
+- É terminantemente proibido o uso de fardas, uniformes e insígnias pertencentes às Forças Nacionais Brasileiras de Segurança nos eventos (Exército, Marinha, Aeronáutica Brasileira, Polícia Militar, Polícia Civil, Bombeiros, Segurança Prisional, etc.). Art. 172 do Código Penal Militar, Decreto Lei nº 3368, art. 46.
+
+Para um bom jogo de Real Action, é de extrema importância que todo operador se empenhe ao máximo na atuação de seu personagem/papel. Seja ele qual for, a sua vestimenta tem um papel crucial para o sucesso na sua atuação. Participe dos jogos sempre com este espírito e se caracterize de acordo com a indicação da organização.
+
+# Espírito Esportivo
+
+Jogue limpo, da mesma forma que você espera que seus adversários e companheiros o façam. O espírito do paintball está associado a qualidades como honestidade, honra, caráter e **fairplay**. Faça a sua parte.
+
+## Consumo de Drogas e Bebidas Alcoólicas
+
+O paintball é um esporte que exige muito mais do que simples condicionamento físico. Exige coordenação, discernimento, capacidade de raciocínio e, principalmente, respeito. O uso de drogas e bebidas alcoólicas **não** é compatível com as condições necessárias para a prática do esporte e nem para a manutenção do ambiente saudável e familiar que se procura manter nos jogos e eventos.
+
+## Paint-check
+
+**Paint-check** é a ação de pedir ao ranger uma revisão no seu adversário supostamente atingido. Este item é amplamente usado em jogos de todas as modalidades e é permitido. Este procedimento no RA deve ser usado com cautela porque:
+
+- O operador que pedir o paint-check e o ranger não confirmar no adversário a marcação da tinta ou o toque da bolinha, se pelo ranger visto, este operador que pediu tal procedimento será penalizado com 1 morte, tendo que cumprir reborn.
+
+## Infrações e Punições
+
+Existem várias atitudes anti-esportivas que serão consideradas infrações. Estas podem ter vários níveis de gravidade e poderão acarretar vários tipos de punição. É importante que uma infração possa ser cometida tanto dentro da zona de jogo quanto fora dela, seja na zona de segurança ou em qualquer parte da área destinada ao evento.
+
+### Níveis das Infrações
+
+As infrações cometidas podem ter diferentes níveis de gravidade que devem ser avaliados antes de se aplicar uma punição. A reincidência ou a evidência de intenção em uma determinada infração pode fazer com que ela seja tratada com maior gravidade.
+
+- **Leve**: a atitude que, apesar de incorreta, não traz nenhum risco significativo nem prejudica o andamento do jogo.
+- **Moderada**: aquela atitude que, apesar de não representar risco relevante, traz algum transtorno ao andamento do jogo, de forma moderada.
+- **Grave**: aquele caso em que a atitude, além de incorreta, traz algum risco para a outra parte, ou expõe a vítima a algum constrangimento ou interfere de forma significativa no andamento do jogo.
+
+### Gravíssima
+
+Aquela atitude que expõe qualquer participante do evento a um risco considerável, inclusive o próprio, ou compromete seriamente o andamento do jogo, seja favorecendo uma das partes ou prejudicando a outra.
+
+## Tipos de Punição
+
+- **Advertência**: consiste em um aviso ao jogador, com a finalidade de deixá-lo ciente de que a sua atitude não foi correta e, caso persista, será considerada uma falta de maior gravidade.
+
+- **Tempo de reborn**: consiste em aumentar o tempo que o jogador deve esperar antes de voltar ao jogo, caso haja reborn. Esse tempo pode ser de 5, 10 ou 15 minutos além do tempo normal, conforme a falta cometida.
+
+- **Eliminação**: consiste em eliminar o jogador da partida atual, com direito a reborn, se houver, como se ele tivesse sido eliminado pelo adversário.
+
+- **Eliminação – regra One by One**: consiste em eliminar o jogador da partida atual juntamente com o seu companheiro do mesmo exército que estiver mais próximo, com direito a reborn, se houver, como se eles tivessem sido eliminados pelo adversário.
+
+- **Eliminação – regra One by Two**: consiste em eliminar o jogador da partida atual juntamente com os seus dois companheiros do mesmo exército que estiverem mais próximos, com direito a reborn, se houver, como se eles tivessem sido eliminados pelo adversário.
+
+- **Suspensão**: consiste em eliminar o jogador da partida atual sem direito a reborn. O período de suspensão pode se estender por um determinado tempo ou número de partidas, conforme a gravidade da infração cometida, podendo o jogador ficar fora do jogo por duas partidas/missões ou por duas horas, por exemplo.
+
+- **Expulsão**: consiste, como diz o nome, na expulsão sumária do jogador tanto da partida quanto do local do evento, perdendo o direito de participar das demais etapas que ainda restarem.
+
+## Punições Aplicáveis
+
+A punição, quando cabível, deve ser aplicada de acordo com o nível de gravidade da infração.
+
+- **Faltas leves**: advertência.
+- **Faltas moderadas**: eliminação com ou não aumento do tempo de reborn.
+- **Faltas graves**: eliminação, eliminação one-by-one, eliminação one-by-two ou suspensão, conforme reincidência ou gravidade.
+- **Faltas gravíssimas**: suspensão (prolongada) ou expulsão.
+
+## Relação de Infrações
+
+Segue abaixo a relação das infrações, ordenadas por gravidade, com as suas respectivas punições.
+
+### Leves
+
+- Má conduta, palavrões contra outros participantes e discussões.
+
+### Moderadas
+
+- Reincidência de infração leve;
+- Overshot (excesso de tiros);
+- Atitudes desrespeitosas para com os companheiros de equipe, adversários ou expectadores. Conforme a situação, essas atitudes podem ser interpretadas como faltas de maior gravidade;
+- Tiro cego "Arma do Capeta".
+
+### Graves
+
+- Utilização do marcador com velocidade acima do teto permitido, sem evidência de atitude intencional;
+- Não utilizar o bloqueador de cano fora da zona de combate;
+- Efetuar disparo fora da zona de combate;
+- Afastar a máscara do rosto fora da zona de segurança;
+- Overshot - quando a intenção for clara, ou quando o alvo for um jogador já eliminado se dirigindo à Safety Zone, ou ainda um ranger, fotógrafo ou outro participante não ativo;
+- Mortos falantes – consiste em passar informações, via rádio ou qualquer outro meio, quando o jogador já não estiver em combate, seja por eliminação ou qualquer outro motivo;
+- Se envolver em brigas;
+- Reincidência de infração moderada;
+- Operador que levar um disparo e não se autodeclarar morto ou ferido;
+- Simular morte através de artifícios como o uso de pano branco, levantar marcador, etc.
+
+### Gravíssimas
+
+- Alterar intencionalmente a velocidade do marcador após entrar em jogo;
+- Estar em combate sem algum item obrigatório;
+- Remover a máscara de proteção do rosto, expondo os olhos;
+- Utilizar equipamentos ou artefatos inadequados à prática do paintball e sem a autorização prévia da organização, que possam causar qualquer tipo de risco aos participantes;
+- Limpeza de tiros – limpar as marcas de tiros visando permanecer no jogo de forma ilícita é provavelmente a atitude mais anti-esportiva que um jogador de paintball pode tomar;
+- Consumo de drogas ou bebidas alcoólicas antes ou durante a realização do jogo;
+- Participante se envolver em furto;
+- Envolver-se em tentativa e/ou agressão corporal.
+
+## Cilindros de CO2 e HPA
+
+Cilindros de CO2 de alumínio e HPA de alumínio e fibra de carbono são chamados por empresas especializadas de "OGIVAS", porque realmente são "bombas" que levamos junto ou muito perto do nosso corpo. Estes cilindros são obrigatoriamente retestados e remarcados (teste hidrostático) a cada 5 anos, sendo sua vida útil de 3 retestes ou 15 anos, o que vier primeiro. Já foram relatados inúmeros acidentes com estes tipos de cilindros, até mesmo fatais. Devido a todo esse perigo e exposição de todos jogadores e familiares, o CGRA sugeriu colocar um prazo onde as organizações de eventos não aceitarão, em hipótese alguma, cilindros vencidos. O responsável pela recarga e manuseio pode negar-se a encher se assim decidir, devido ao estado de conservação, mesmo antes do prazo de validade. Portanto, desde o segundo semestre de 2017, eles não serão mais aceitos.
+
+## Comissão de Discussão
+
+Será formada por todos os capitães do RA do estado que tenham interesse, sendo que a comissão terá a periodicidade das reuniões a cada 1 (um) ano para discutir as pautas relevantes. Revisões anuais devem atender às necessidades do compêndio e seus participantes, com data pré-estabelecida para a segunda semana do mês de janeiro de 2019, local a definir pelos interessados, que será discutido nos meios de comunicação dos capitães, como Facebook e/ou WhatsApp.
+
+## Cartilha de Rangers
+
+Na reunião do CGRA de 2017, foi aprovada por todos os capitães presentes a adoção da cartilha de rangers, com algumas modificações a seguir, para guiar a conduta dos rangers em campo, bem como adotar critérios e padronização para punições.
+
+# Cartilha de Rangers Real Action
+
+Esta cartilha se apresenta como uma referência para a atuação de rangers no real action, milsim e cenário. Como tal, cabe ao promotor adotar ou não, assim como a cada ranger individualmente. Neste documento, não serão citados times, equipes, grupos ou indivíduos. O objetivo é a total isonomia para a aplicação do que aqui é divulgado.
+
+## 1. Conduta Geral
+
+- O ranger deve acompanhar o jogador ou jogadores com visão direta e visão periférica. A atenção deverá ser permanente. O ponto observado é o jogador que **RECEBE** tiro, não onde o tiro deste jogador atinge.
+- Não poderá alterar tom de voz, altura, e comportar-se de maneira tendenciosa em nenhuma hipótese. Sua palavra será final, exceto em caso de punição por banimento, quando o ranger master deverá ser consultado.
+- Deve ter pleno conhecimento das regras do evento e da modalidade que, por ora, ele arbitra. Caso exista dúvida, consultar o ranger master.
+- Uso de rádio: **Obrigatório**. Ater-se a 5 palavras no máximo, pausadamente, seguido de “copia”.
+- Deverá usar indumentária **DESTACADA** dos demais jogadores - cores chamativas são recomendadas.
+- O ranger é considerado elemento **NEUTRO** por todos os jogadores em campo. Sua postura deverá sempre ser atenciosa, proativa e de prontidão.
+
+### 1.1 Dispersão em Campo
+
+- Rangers deverão se dispersar de forma uniforme pela área de jogo.
+- Haverá **SEMPRE** um ranger master, responsável pelos demais.
+- **REGRA** - Onde não há jogador: é dispensável a presença de ranger.  
+  Onde há jogadores, é necessária a presença de ranger.  
+  Onde há combate, é obrigatória a presença de ranger.
+- **REGRA dos 5 metros** (regra do vírus) – os rangers deverão manter 5 metros mínimos de distância entre um e outro.
+
+### 1.2 Posicionamento
+
+- **REGRA dos 10 metros** – distância máxima do ranger em relação ao alvo da observação. Quando houver combate, nunca poderá deixar de haver **UM** ranger, pelo menos a 10 metros do mesmo.
+
+### 1.3 Deslocamento
+
+- O deslocamento deverá ser de acordo com o ranger master. Assim, evita-se deslocamentos desnecessários e em desacordo com a dispersão. Uma vez com um objeto de observação no campo de visão, deslocar-se somente quando a ação ou jogador não mais se encontrar no local.
+
+## 2. Atitudes Frente aos Casos Identificados
+
+### 2.1 Identificação e Sanções
+
+O ranger identificará o infrator nos casos seguintes com respectivas sanções:
+
+- **2.1.1** Chamar atenção do ranger ou do adversário indevidamente (pedir paintcheck – vocalizar em direção ao adversário). Se o ranger não confirmar o Hit ou marcação - punição – reborn/eliminação.
+- **2.1.2** Não cumprimento de regra específica da modalidade praticada (ex. uso do braço da tipóia, Arma do capeta, excesso de munição, etc) - punição - reborn/eliminação.
+- **2.1.3** Interferência externa – ter auxílio de pessoa ou pessoas fora do campo de jogo – punição - one by one.
+- **2.1.4** Retrucar ranger - querer discutir decisão já tomada – punição - one by one.
+- **2.1.5** “Morto falante” (inclusive por rádio) – elimina todos os envolvidos.
+- **2.1.6** Agressão verbal (palavra de baixo calão) – overshot intencional (agressivo) – punição - one by two.
+- **2.1.7** Retirar máscara sem autorização do ranger – punição - banimento do mesmo e comunicar o capitão no final do evento.
+- **2.1.8** Highlander (jogador com tiro óbvio continuando em jogo) flagrado após 5 segundos de tolerância (corpo/membro - tiro óbvio) – punição - one by one.
+- **2.1.9** Highlander (jogador com tiro óbvio continuando em jogo) flagrado disparando – punição - one by two.
+- **2.1.10** Agressão física e/ou tentativa – punição - banimento do game e por 60 dias para equipe, de acordo com ranger master.
+- **2.1.11** Ao ranger master cabe o contato com capitães de equipes e líderes em jogo.
+
+### Considerações sobre Punições
+
+Considerando os compêndios de regras específicos de cada modalidade, define-se como punições:
+
+- **Falta Leve**: reborn/eliminação.
+- **Falta Moderada**: One by One.
+- **Falta Grave**: One by Two.
+- **Falta Gravíssima**: Banimento de evento/60 dias de jogos.
+
+**Considere One by One**: Ranger elimina/manda para o reborn o jogador faltoso mais um jogador de seu exército, o mais próximo, independente de equipe.
+
+**Considere One by Two**: Ranger elimina/manda para o reborn o jogador faltoso mais dois jogadores de seu exército, os mais próximos, independente de equipe.
+
+Casos de punição que ultrapassem o tempo de evento serão passados à Federação.
