@@ -176,7 +176,8 @@ A **Safety Zone** é uma área neutra, fora da zona de combate, onde os jogadore
 
 - **Apito**: Item obrigatório para emergências ou acidentes. O apito interrompe o jogo e ajuda na localização de jogadores feridos em terrenos difíceis.
 
-- **Cartão de Identificação**: Cada jogador deve portar um cartão com informações básicas como nome completo, tipo sanguíneo, data de nascimento, alergias ou doenças graves, e telefone de emergência.
+- **Cartão de Identificação**: Cada jogador deve portar um cartão com informações básicas, como nome completo, tipo sanguíneo, data de nascimento, alergias ou doenças graves e telefone de emergência. 
+Em 2019, foi decidido e votado que a identificação visível do operador se tornou obrigatória. Essa identificação deve ser exibida no colete e/ou capacete através de um “patch manicaca (soutache)” bordado ou não, com a sugestão de que seja retangular, de livre escolha de tamanho e cores.
 
 **Dica**: Cuide bem de seus equipamentos e mantenha-se hidratado na área da **Safety Zone**.
 
@@ -206,8 +207,17 @@ A **Safety Zone** é uma área neutra, fora da zona de combate, onde os jogadore
 - O uso de bolas de talco está liberado no calibre **.43**, mas o calibre **.68** continua sendo proibido.
 - Nota: Cabe à organização conferir a qualidade das bolinhas utilizadas, evitando o uso de bolinhas que possam comprometer a segurança dos participantes, como por exemplo, bolinhas muito velhas, com a casca amolecida.
 
-### Granadas de Paintball
+### Granadas
+
+- **Granada de tinta**: 
 - As granadas de tinta, tanto comerciais quanto artesanais, serão liberadas sempre sob critério da organização.
+
+- **Granada explosiva**: 
+- Foi adicionado em 2019 este item, onde somente serão permitidas aquelas fornecidas pela organização do evento.
+  As regras deste item são:
+  - A granada tem uma efetividade de um raio de 5 metros;
+  - Não serão eliminados operadores que estiverem protegidos atrás de obstáculos sólidos como, paredes, colunas, escudos ou similares;
+  - Após o acionamento da granada, ela não poderá ser tocada, chutada, ou rebatida de qualquer forma por nenhum operador.
 
 ### Minas de Paintball
 - Idem as granadas de tinta.
@@ -230,9 +240,13 @@ A **Safety Zone** é uma área neutra, fora da zona de combate, onde os jogadore
 - Ficará a critério da organização decidir o número de escudos a serem utilizados e se poderão ser utilizados.
 
 #### Eliminação do Escudo
+
 - O escudo será indestrutível.
-- Todo operador que estiver utilizando o escudo deverá seguir as regras de eliminação e ferimentos normalmente. Assim sendo, quando o operador do escudo for eliminado ou ferido no braço, ele deve deixar o escudo no chão, no local em que foi eliminado “IMEDIATAMENTE”. Neste caso, o escudo poderá ser usado por outros operadores.
-- Por regra padrão, o escudo poderá ser reutilizado somente por membros do mesmo exército, salvo por determinação da organização.
+- Todo operador utilizando o escudo deverá seguir as regras de eliminação e ferimentos normalmente. Assim, quando o operador do escudo for eliminado ou ferido no braço, ele deve deixar o escudo no chão, no local em que foi eliminado, **IMEDIATAMENTE**. Nesse caso, o escudo poderá ser usado por outros operadores.
+- Por padrão, o escudo poderá ser reutilizado somente por membros do mesmo exército, salvo determinação em contrário da organização.
+
+- **Escudo**: Em 2019, foi adicionado a este item um adendo sobre a granada explosiva. O escudo permanece indestrutível mesmo com o uso deste artefato. Se a granada for lançada em um local onde o operador do escudo não esteja se cobrindo, como nas costas ou laterais do escudo, o operador estará eliminado e deverá deixar o escudo no chão no exato ponto da sua eliminação.
+
 
 # Veículos
 
@@ -261,7 +275,9 @@ A **Safety Zone** é uma área neutra, fora da zona de combate, onde os jogadore
 
 # Artefatos Pirotécnicos
 
-Artefatos pirotécnicos, como bombas de fumaça, sinalizadores e similares, serão permitidos após análise da organização, desde que sejam comprados e seguros. Não serão permitidos artefatos artesanais (caseiros). Artefatos pirotécnicos de som (bombinhas, rojões etc.) não serão permitidos, visando preservar a integridade física dos jogadores, bem como a estrutura do local do jogo.
+Artefatos pirotécnicos, como bombas de fumaça, sinalizadores e similares, serão permitidos após análise da organização, desde que sejam comprados e seguros. ~~Não serão permitidos artefatos artesanais (caseiros). Artefatos pirotécnicos de som (bombinhas, rojões etc.)~~
+Em 2019 este texto foi alterado para:
+  Utilização ou veto a critério da organização.
 
 ## Equipamentos Auxiliares
 
@@ -314,7 +330,11 @@ A distribuição dos especialistas que cada exército poderá dispor durante o j
 
 ## Identificação
 
-Os exércitos serão identificados por cores, através de braçadeiras ou similares, sendo uma cor diferente para cada um. O especialista Sniper será o único a não ter tal identificação.
+"~~Os exércitos serão identificados por cores, através de braçadeiras ou similares, sendo uma cor diferente para cada um. O especialista Sniper será o único a não ter tal identificação.~~" 
+
+Em 2019, este texto foi alterado para:  
+A identificação dos exércitos agora fica a critério da organização, desde que seja de forma clara e visível.
+
 
 ## Funções
 
@@ -383,7 +403,9 @@ A organização deve fiscalizar o equipamento e o municiamento de cada participa
 - Este especialista deverá ser caracterizado por seus equipamentos, que serão de uso obrigatório:
   - Luneta ou red dot
   - Bipé
-  - Cano de 18 polegadas ou mais
+  - ~~Cano de 18 polegadas ou mais~~
+  Em 2019 este texto foi alterado para:
+  - Este especialista não terá mais a restrição do tamanho de cano usado em seu marcador primário;
 
 - Será 70 bolinhas por cada hora de jogo, sendo divididas entre o marcador principal e o secundário.
 - A cronagem do marcador principal será limitada a 300 FPS, sendo de 10% o teto para punição (330 FPS). O marcador secundário obedece às regras gerais para a cronagem.
@@ -433,100 +455,100 @@ Os procedimentos são:
 
 ## Conceito: Reborn, Base e Safety Zone
 
-Seguem alguns conceitos básicos para o entendimento de cada uma dessas áreas.
+A seguir, são apresentados conceitos básicos para o entendimento dessas áreas:
 
-- **Safety Zone**: área de segurança, fora da área de jogo, onde ficam os jogadores antes de entrar em jogo, seja no início ou após serem eliminados, enquanto cumprem o tempo de espera determinado. Geralmente, fica também alguém da organização, seja para limpar máscaras e equipamentos, controlar o tempo de espera e o uso dos equipamentos de segurança. A Safety Zone deve ser isolada com tela ou em uma sala fechada. É obrigatório o uso de bloqueadores de cano, e é aqui o único lugar onde se pode retirar a máscara.
+- **Safety Zone**: Área de segurança, fora do campo de jogo, onde os jogadores aguardam antes de entrar em jogo, seja no início ou após serem eliminados, enquanto cumprem o tempo de espera. Geralmente, um membro da organização está presente para limpar máscaras e equipamentos, controlar o tempo de espera e garantir o uso dos equipamentos de segurança. A Safety Zone deve ser isolada por telas ou localizada em uma sala fechada. O uso de bloqueadores de cano é obrigatório, e este é o único local onde se pode retirar a máscara.
 
-- **Reborn**: na verdade, reborn não é um local, é uma ação. É o ato de entrar ou voltar ao jogo. Esse compêndio se refere ao reborn como sendo o ponto de inserção, que é o local onde uma tropa se reúne ou é deixada para se dirigir à zona de combate ou ao seu objetivo. Existem muitas variações para o ponto de inserção. Ele pode ser fixo, móvel, ao lado da Safety Zone, dentro da zona de combate, fora da zona de combate, em uma base (edificação), etc.
+- **Reborn**: Refere-se à ação de entrar ou voltar ao jogo. Este compêndio considera o reborn como o ponto de inserção, onde uma tropa se reúne ou é deixada antes de se dirigir à zona de combate ou a um objetivo. O ponto de inserção pode ser fixo, móvel, ao lado da Safety Zone, dentro ou fora da zona de combate, ou em uma base.
 
-- **Base**: uma estrutura física, um prédio, uma casa, uma barraca, seja o que for, dentro da zona de combate, pode ser defendida, atacada, pode fazer parte de algum objetivo ou não, pode ser o ponto de inserção de uma equipe ou não.
+- **Base**: Estrutura física, como um prédio, casa ou barraca, localizada na zona de combate. Pode ser defendida ou atacada e pode servir como ponto de inserção para uma equipe.
 
-# Formas de Reborn
+## Formas de Reborn
 
-Existem muitas formas de funcionamento do reborn, inclusive a inexistência do mesmo, especialmente em missões mais curtas. Alguns critérios devem ser considerados para a utilização do reborn:
+Existem várias formas de funcionamento do reborn, incluindo a possibilidade de não haver reborn, especialmente em missões mais curtas. Alguns critérios devem ser considerados para a utilização do reborn:
 
-## Condição de Reborn
+### Condição de Reborn
 
 Definição da área de reborn e quem terá direito.
 
-### Exemplos:
-- Todos os jogadores terão direito a reborn.
-- Terão direito a reborn todos os jogadores eliminados em uma determinada zona ou em uma determinada missão.
-- Somente os líderes das duas (ou mais) equipes terão direito a reborn.
+#### Exemplos:
+- Todos os jogadores têm direito a reborn.
+- Apenas jogadores eliminados em uma zona ou missão específica têm direito a reborn.
+- Somente os líderes de equipes têm direito a reborn.
 
-## Número de Reborns
+### Número de Reborns
 
-Poderá ser definida a quantidade de vezes que o jogador poderá voltar ao jogo após ser eliminado.
+Definição da quantidade de vezes que um jogador pode voltar ao jogo após ser eliminado.
 
-### Exemplos:
-- Reborn livre, sem contagem do “número de vidas”.
-- Reborn limitado, sendo o número de vezes definido em função do tempo/complexidade da missão e a contagem controlada pela organização através de tickets, planilha, pulseira utilizada pelo jogador, etc.
+#### Exemplos:
+- Reborn livre, sem contagem de “número de vidas”.
+- Reborn limitado, com o número de vezes definido de acordo com o tempo ou complexidade da missão, controlado pela organização através de tickets, planilhas ou pulseiras.
 
-## Reborn por Tempo
+### Reborn por Tempo
 
-O tempo para o reborn pode ser controlado de várias formas.
+O tempo de reborn pode ser controlado de várias formas.
 
-### Individual:
-A organização deve anotar o horário em que cada jogador eliminado chegou na **Safety Zone** e controlar o tempo em que ele deve permanecer fora do jogo, avisando o jogador quando ele estiver liberado para retorno. O jogador pode retornar imediatamente ou aguardar que algum companheiro também seja liberado para retornarem em conjunto.
+#### Individual:
+A organização deve anotar o horário em que cada jogador eliminado chega à **Safety Zone** e controlar o tempo fora do jogo, avisando quando o jogador pode retornar. O jogador pode voltar imediatamente ou aguardar um companheiro.
 
-# Reborn e Eliminação
+### Reborn Coletivo
 
-Cabe à organização definir qual será o tempo de reborn e se ele será o mesmo para todos os jogadores. Capitães e especialistas podem ter um tempo de reborn diferenciado.
+O reborn por tempo pode ser coletivo, com liberações em intervalos regulares, definidos pela duração e complexidade da missão. Nesse caso, todos os jogadores aguardando retornam ao jogo simultaneamente.
 
-## Reborn Coletivo
+#### Exemplo:
+- A cada meia hora, abre-se uma “janela” para reborn com duração de 5 minutos. Quem estiver aguardando pode voltar ao jogo nesse intervalo.
 
-O reborn por tempo também pode ser coletivo, sendo liberado em intervalos regulares, definidos de acordo com a duração e complexidade da missão. Nessa modalidade, todos os jogadores que estiverem aguardando retornam ao jogo ao mesmo tempo quando o reborn for liberado.
+### Reborn por Número de Jogadores
 
-### Exemplo:
-- A cada meia hora de jogo é aberta uma “janela” para reborn com duração de 5 minutos. Quem estiver aguardando reborn nesse intervalo pode voltar ao jogo. Após esses 5 minutos, quem não tiver retornado deve aguardar a próxima janela, dentro de mais meia hora.
+O reborn é liberado quando um número determinado de jogadores aguarda retorno.
 
-## Reborn por Número de Jogadores
+#### Exemplo:
+- Sempre que houver 5 jogadores prontos para retornar, o reborn é liberado. O número de jogadores deve ser definido pela organização, considerando a quantidade de participantes, tempo e complexidade da missão.
 
-Nessa modalidade, o reborn é liberado sempre que se junta um determinado número de jogadores aguardando retorno.
-
-### Exemplo:
-- Sempre que houver 5 jogadores prontos para retornar ao jogo, o reborn é liberado, devendo os demais esperarem até que se forme outro grupo de 5. O número de jogadores deve ser definido pela organização, em função do número de participantes, do tempo e da complexidade da missão.
-
-## Condições Especiais
+### Condições Especiais
 
 - A recarga de gás será permitida durante o reborn.
-- A recarga de munição será proibida durante o reborn, salvo se transcorrido 1 hora de jogo e a cada hora.
+- A recarga de munição será proibida durante o reborn, exceto após 1 hora de jogo e a cada hora.
 
 ### Opções de Reborn
 
-O jogador que estiver retornando ao jogo tem duas opções de reborn:
+O jogador retornando ao jogo tem duas opções de reborn:
 
-1. **Reborn ao entrar na zona de combate**: Assim que ele chegar ao local definido para reborn, deve remover o bloqueador de cano e será considerado em jogo.
-2. **Reborn atrás do último homem**: Ao escolher essa opção, o jogador deverá obrigatoriamente permanecer com o marcador bloqueado e seguir com as mãos erguidas até que encontre o último homem da sua força, independente deste ser ou não da sua equipe. Nesse momento, ele deve desbloquear o marcador, juntando-se ao companheiro em combate.
-
-## Eliminação
-
-- O jogador atingido na cabeça ou no tronco é eliminado diretamente, devendo se retirar para a **Safety Zone**. Será considerado morto ou ferido somente com o toque da bolinha "HIT", sendo assim a "sorte de guerra" abolida.
-- O jogador atingido nas pernas não é eliminado diretamente, mas não pode andar nem correr, podendo sentar, deitar ou rastejar. Ele pode aguardar pelo atendimento médico ou pode ser carregado pelos companheiros até um local seguro onde possa ser atendido (carregamento simulado). Após o atendimento, o jogador poderá voltar ao jogo, mas deverá mancar para simular o ferimento e não poderá mais correr nesta partida.
-
-# Eliminação e Rendição
+1. **Reborn ao entrar na zona de combate**: Ao chegar ao local definido, o jogador remove o bloqueador de cano e é considerado em jogo.
+2. **Reborn atrás do último homem**: O jogador deve permanecer com o marcador bloqueado e as mãos erguidas até encontrar o último homem de sua força, podendo desbloquear o marcador ao se juntar a ele em combate.
 
 ## Eliminação
 
-- O jogador atingido nos braços não é eliminado diretamente, mas não pode utilizar o marcador, independente do braço atingido, até que seja atendido pelo médico. O jogador pode se locomover normalmente, podendo buscar um local protegido e o atendimento médico. Após o atendimento médico, o jogador poderá utilizar somente o outro braço. O braço atingido permanecerá imobilizado por uma tipoia, não podendo mais ser utilizado nesta partida.
-  
-- Só é permitido que o jogador tenha um curativo de cada vez. Caso ele seja atingido novamente, será eliminado, mesmo que o novo tiro seja nos braços ou pernas.
-  
-- Tiros que atingirem o marcador eliminam somente o marcador. O jogador deverá permanecer em jogo e poderá usar um marcador secundário, se houver.
+- O jogador atingido na cabeça ou tronco é eliminado diretamente e deve se retirar para a **Safety Zone**. Ele é considerado morto ou ferido apenas com o toque da bolinha "HIT", abolindo a "sorte de guerra".
+- O jogador atingido nas pernas não é eliminado diretamente, mas não pode andar ou correr; pode sentar, deitar ou rastejar. Ele pode aguardar atendimento médico ou ser carregado até um local seguro (carregamento simulado). Após o atendimento, o jogador deve mancar para simular o ferimento.
 
-- O jogador não poderá cometer suicídio ou se declarar morto, exceto pelo motivo de rendição.
+### Eliminação e Rendição
 
-### Importante:
+#### Eliminação
 
-- Tiros que acertarem cilindros ou acessórios que fiquem no colete do jogador serão considerados no tronco, sendo o jogador eliminado e devendo retirar-se para a **Safety Zone**.
+- O jogador atingido nos braços não é eliminado diretamente, mas não pode usar o marcador até ser atendido. Ele pode se locomover normalmente e buscar atendimento médico. Após o atendimento, pode usar apenas o outro braço, com o braço atingido imobilizado por uma tipoia.
 
-- Tiros que acertarem qualquer objeto portado pelo jogador, mas que não esteja junto ao corpo, como maletas, sacolas, caixas, mochilas (carregadas na mão), eliminam o objeto daquela partida. A regra não se aplica ao escudo (vide pág. 10).
+- O jogador pode ter apenas um curativo por vez. Se atingido novamente, será eliminado, mesmo que o novo tiro seja nos braços ou pernas.
 
-- Jogadores eliminados portando algum objeto devem se retirar levando o objeto consigo. Caso o jogador não esteja com o objeto no momento da eliminação, este deve ser deixado onde estava, podendo ser recuperado pelo jogador ao voltar do reborn ou por algum companheiro de equipe.
+- Tiros que atingirem o marcador eliminam apenas o marcador. O jogador pode permanecer em jogo e usar um marcador secundário, se houver.
 
-- O jogador ferido continua em combate, o que significa que o adversário pode atingi-lo novamente, eliminando-o da partida.
+- O jogador não pode cometer suicídio ou se declarar morto, exceto em caso de rendição.
 
-- Fogo amigo tem exatamente o mesmo efeito do fogo inimigo, ou seja, o jogador é “ferido” ou eliminado, não importa a origem do tiro.
+### Importante
+
+- Tiros que acertarem cilindros ou acessórios no colete do jogador serão considerados como acertos no tronco, resultando na eliminação do jogador.
+- Tiros que atingirem objetos portados, mas não junto ao corpo (como maletas ou mochilas), eliminam apenas o objeto. Esta regra não se aplica ao escudo.
+- Jogadores eliminados com objetos devem retirá-los. Se não estiverem com o objeto no momento da eliminação, devem deixá-lo onde estava, podendo recuperá-lo ao voltar do reborn ou por um companheiro.
+- O jogador ferido continua em combate, podendo ser atingido novamente e eliminado.
+- Fogo amigo tem o mesmo efeito do fogo inimigo, resultando na "ferida" ou eliminação do jogador, independentemente da origem do tiro.
+
+### Condições Especiais
+
+Um operador que entrar no reborn por qualquer motivo será considerado morto/eliminado.
+
+### Remuniciamento
+
+O controle de munição por hora não será mais realizado. O controle será feito apenas no início do evento, e o remuniciamento durante a partida será de acordo com a especialidade do jogador.
 
 ## Rendição
 
@@ -730,78 +752,3 @@ Considerando os compêndios de regras específicos de cada modalidade, define-se
 **Considere One by Two**: Ranger elimina/manda para o reborn o jogador faltoso mais dois jogadores de seu exército, os mais próximos, independente de equipe.
 
 Casos de punição que ultrapassem o tempo de evento serão passados à Federação.
-
-# Ata da Reunião dos Capitães do RS
-
-Aos dias treze de janeiro de dois mil e dezenove, reuniram-se os capitães ou representantes citados acima no campo Comando Delta na cidade de Gravataí (sede da Federação), a fim de avaliar o Compêndio Gaúcho de Real Action (CGRA).
-
-## PAUTAS DO DIA E SUAS EXECUÇÕES
-
-- **Cartão de identificação**: Foi decidido e votado que este item continua obrigatório e acrescentou o seguinte item na regra como obrigatório:
-  - Identificação visível do operador podendo ser no seu colete e/ou capacete através de um “patch manicaca (soutache)” bordado ou não, com sugestão de que seja retangular de livre escolha de tamanho e cores.
-
-- **Direito a voto da regra**: Debateu-se a cláusula de barreira para voto nas reuniões do CGRA. Foi estipulada uma participação mínima de 20% dos eventos em calendário e 1 (um) ano de existência da equipe.
-
-- **Gunner**: Foram debatidos alguns pontos deste especialista, mas no voto decidiu-se manter como está.
-
-- **Prioridade dos especialistas**: Foi debatido sobre a prioridade dos especialistas nos eventos por ordem de quantidade de operadores inscritos para preencher vagas. No voto, decidiu-se em não mexer ou incluir algum item neste sentido.
-
-- **Retirada de tópicos da regra**: Discutiu-se sobre o tamanho e número de páginas do CGRA e tópicos não mais necessários nos dias de hoje na atual evolução do esporte. Portanto, foi votado para retirar da regra os seguintes tópicos que não farão mais parte do CGRA a partir da presente data:
-  - Evento ou jogo;
-  - Infraestrutura;
-  - Safety zone;
-  - Rangers;
-  - Banheiros;
-  - Alimentação;
-  - Acomodações;
-  - Recarga de gás;
-  - Venda de bolinhas;
-  - Autoridade/serviço de emergência;
-  - Debriefing;
-  - Safety zone (novamente);
-  - Lanterna ou equivalente;
-  - Jogos indoor (urbano e CQB);
-  - Cadência de tiro;
-  - Higiene e limpeza;
-  - Para a organização;
-  - Divisão das unidades;
-  - Identificação;
-  - Início e fim de jogo;
-  - Conceito reborn, base e safety zone;
-  - Formas de reborn;
-  - Condição de reborn;
-  - Número de reborns;
-  - Reborn por tempo;
-  - Reborn por número de jogadores;
-  - Cordialidade;
-  - Espírito esportivo;
-  - Infrações e punições;
-  - Níveis de infrações;
-  - Tipo de punição;
-  - Punições aplicáveis;
-  - Relação de infrações;
-  - Moderadas;
-  - Graves;
-  - Gravíssimas;
-
-- **Granada explosiva**: Será adicionado este item, onde somente serão permitidas aquelas fornecidas pela organização do evento. As regras deste item são:
-  - A granada tem uma efetividade de um raio de 5 metros;
-  - Não serão eliminados operadores que estiverem protegidos atrás de obstáculos sólidos como, paredes, colunas, escudos ou similares;
-  - Após o acionamento da granada, ela não poderá ser tocada, chutada, ou rebatida de qualquer forma por nenhum operador.
-
-- **Artefatos pirotécnicos**: Este tópico mudará sua redação para: Utilização ou veto a critério da organização.
-
-- **Identificação**: A identificação dos exércitos agora fica a critério da organização, desde que seja de forma clara e visível.
-
-- **Sniper**: Este especialista não terá mais a restrição do tamanho de cano usado em seu marcador primário; o restante da regra se mantém a mesma.
-
-- **Condições especiais**: Cria-se um tópico com a seguinte redação: Operador que entrar no reborn por qualquer motivo será considerado morto/eliminado.
-
-- **Cartilha de rangers**: Foi deliberado pelo plenário que os capitães Sergio Guterres e Leandro Miranda farão a revisão e adição das infrações e punições para a cartilha de rangers, incluindo tópicos que foram retirados do compêndio de 2018, prescritos neste.
-
-- **Remuniciamento**: Este item que era a cada hora de jogo passa a não ser mais controlado. O controle de munição por hora será somente no início do evento; o remuniciamento durante a partida será de acordo com a sua especialidade.
-
-- **Escudo**: Adicionado a este item um adendo sobre a granada explosiva. O escudo permanece indestrutível mesmo com o uso deste artefato. Se a granada for jogada em algum local onde o operador do escudo não se cubra, como por exemplo em suas costas ou laterais do escudo, o operador estará eliminado e deverá deixar o escudo no chão no exato ponto da sua morte.
-
-- **Médico**: Neste especialista foram colocados alguns argumentos e propostas como, por exemplo, a utilização da “bolsa de sangue” na cura de um ferido. Porém, na votação decidiu-se não modificar nenhum ponto. Sendo assim, foi sugerido laboratórios durante o ano sobre tal procedimento.
-
