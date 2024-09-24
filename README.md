@@ -10,7 +10,7 @@ Esse documento descreve os principais componentes utilizados na prática do pain
 - Recursos mínimos necessários para a organização de jogos e eventos
 - Deveres e responsabilidades de jogadores, organizadores e participantes em geral.
 
-Obs.: Este material é uma transcrição do CGRA.
+Obs.: Este material é uma transcrição do CGRA [Compêndio Gaúcho de Real Action], tornando o conteúdo atualizado e de domínio público.
 
 # Índice
 
