@@ -97,3 +97,25 @@ Obs.: Este material é uma transcrição do CGRA.
 - [Comissão de discussão](#comissão-de-discussão)
 - [Cartilha de rangers](#cartilha-de-rangers)
 
+# Introdução
+
+O paintball possui quatro modalidades principais, destacando-se: **Speed** (ou Airball), **Cenário** (ou Woodsball), **MilSim** e **Real Action** (RA).
+
+- **Speed** é o paintball competitivo, com equipes patrocinadas que disputam torneios internacionais. Equipamentos avançados, como marcadores e roupas coloridas, são características dessa modalidade.
+- **Cenário** é mais descontraído, ideal para campos de aluguel e jogadores casuais. As regras são simples, com foco na diversão e na ausência de objetivos complexos.
+- **MilSim Paintball** simula combates intensos, seguindo o SOP (agora RSM canadense), sem renascimento ("reborn") ou gritos de "morto". Simula situações realistas com missões mais elaboradas.
+- **RA (Real Action)** combina estratégia e simulação tática, reproduzindo de forma realista um combate. O foco é tanto na prática esportiva quanto na diversão.
+
+Este compêndio busca padronizar as regras da modalidade **Real Action** no estado, facilitando a integração entre equipes e promovendo o crescimento do esporte no **RS** e em outros estados.
+
+# Jogo ou Evento?
+
+A diferença entre um jogo e um evento vai além do tamanho:
+
+- **Duração:** Eventos geralmente são mais longos, enquanto jogos podem durar apenas 1 ou 2 horas.
+- **Número de participantes:** Eventos tendem a atrair mais pessoas; jogos podem ser menores.
+- **Estrutura:** Ambos requerem infraestrutura adequada, mas eventos precisam de uma organização mais robusta.
+- **Temática:** Eventos sempre têm uma temática central; jogos podem acontecer sem um enredo específico.
+- **Continuidade:** Jogos são únicos e acabam ao final; eventos podem se repetir, criando uma tradição no paintball, como "Fallujah" e "Ardenas".
+
+
