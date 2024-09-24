@@ -399,4 +399,143 @@ A organização deve fiscalizar o equipamento e o municiamento de cada participa
 - Especialista que opera a bazuca; somente ele poderá operar tal equipamento.
 - A proporção deste especialista será de 1/25, ou seja, 1 a cada 25 operadores no exército.
 
+# Regras de Combate
+
+## Início e Fim do Jogo
+
+Tanto o início quanto o final do jogo devem ser sinalizados claramente através de rojões, sirenes, megafones, etc. É importante que fique claro aos participantes que tipo de sinal será utilizado. Apitos devem ser reservados exclusivamente para sinalizar alguma emergência. Existem várias formas de sinalização:
+
+- A organização sinaliza uma vez para preparar e uma segunda vez para iniciar.
+- Os rangers recebem a liberação via rádio/celular e repassam a ordem de início/fim aos jogadores.
+
+**Importante:** O uso de rojões pode não ser aceitável em todos os lugares. É importante que a organização verifique essa questão quando se tratar de uma propriedade pública ou de terceiros, ou ainda de uma zona de preservação ambiental, patrimônio histórico ou similares.
+
+## Tiro Cego "Arma do Capeta"
+
+Tiro cego é caracterizado pelo operador que atira colocando somente o marcador para fora do abrigo, sem permitir a possibilidade de também ser atingido. O fato de não estar vendo seus oponentes aumenta o risco de *overshot* (tiros desnecessários), e tiros no seu próprio marcador poderão não ser vistos. Portanto, este tipo de procedimento está proibido.
+
+## Interrupções no Combate
+
+Exceto por situações de risco real, como a presença de pessoas não autorizadas na área de combate ou ferido real, não haverá interrupção no jogo por nenhum outro motivo. Nos casos de problemas no equipamento, falta de munição, gás, cansaço, necessidades fisiológicas, etc., o jogador deverá se dirigir à **Safety Zone** para então tentar resolver seu problema.
+
+- Exceto se estiverem a caminho da Safety Zone, deixando claro que estão eliminados (marcador e/ou mãos para cima, bandeira branca), todos os jogadores dentro da zona de combate serão considerados em jogo.
+
+## Ferido Real
+
+Em caso de eventual acidente durante a partida em que algum dos jogadores envolvidos possa ter sofrido um ferimento mais sério, o acidente deve ser sinalizado com o uso do apito e o jogo deve ser interrompido o mais rápido possível. O acidentado deve ser atendido por alguém com as mínimas noções de primeiros socorros e, se possível, removido da zona de combate. O jogo só pode reiniciar após o atendimento ou a remoção do ferido.
+
+Os procedimentos são:
+
+1. Parada estática de todos os jogadores de ambos os exércitos ao soar ou escutar o som do apito e colocar o barrel no marcador.
+2. O ferido real soará o apito várias vezes ou algum operador que estiver mais próximo até ser encontrado.
+3. É estritamente proibido aos operadores não envolvidos no ferido real soar mais de uma vez o apito. O apito deve ser soado uma (01) vez por todos os operadores para que o sinal seja replicado e todos envolvidos se tornem cientes.
+4. Após ser sanada a situação do ferido real, o restart do jogo será por rojão ou algum aviso sonoro pré-estabelecido pela organização.
+
+## Conceito: Reborn, Base e Safety Zone
+
+Seguem alguns conceitos básicos para o entendimento de cada uma dessas áreas.
+
+- **Safety Zone**: área de segurança, fora da área de jogo, onde ficam os jogadores antes de entrar em jogo, seja no início ou após serem eliminados, enquanto cumprem o tempo de espera determinado. Geralmente, fica também alguém da organização, seja para limpar máscaras e equipamentos, controlar o tempo de espera e o uso dos equipamentos de segurança. A Safety Zone deve ser isolada com tela ou em uma sala fechada. É obrigatório o uso de bloqueadores de cano, e é aqui o único lugar onde se pode retirar a máscara.
+
+- **Reborn**: na verdade, reborn não é um local, é uma ação. É o ato de entrar ou voltar ao jogo. Esse compêndio se refere ao reborn como sendo o ponto de inserção, que é o local onde uma tropa se reúne ou é deixada para se dirigir à zona de combate ou ao seu objetivo. Existem muitas variações para o ponto de inserção. Ele pode ser fixo, móvel, ao lado da Safety Zone, dentro da zona de combate, fora da zona de combate, em uma base (edificação), etc.
+
+- **Base**: uma estrutura física, um prédio, uma casa, uma barraca, seja o que for, dentro da zona de combate, pode ser defendida, atacada, pode fazer parte de algum objetivo ou não, pode ser o ponto de inserção de uma equipe ou não.
+
+# Formas de Reborn
+
+Existem muitas formas de funcionamento do reborn, inclusive a inexistência do mesmo, especialmente em missões mais curtas. Alguns critérios devem ser considerados para a utilização do reborn:
+
+## Condição de Reborn
+
+Definição da área de reborn e quem terá direito.
+
+### Exemplos:
+- Todos os jogadores terão direito a reborn.
+- Terão direito a reborn todos os jogadores eliminados em uma determinada zona ou em uma determinada missão.
+- Somente os líderes das duas (ou mais) equipes terão direito a reborn.
+
+## Número de Reborns
+
+Poderá ser definida a quantidade de vezes que o jogador poderá voltar ao jogo após ser eliminado.
+
+### Exemplos:
+- Reborn livre, sem contagem do “número de vidas”.
+- Reborn limitado, sendo o número de vezes definido em função do tempo/complexidade da missão e a contagem controlada pela organização através de tickets, planilha, pulseira utilizada pelo jogador, etc.
+
+## Reborn por Tempo
+
+O tempo para o reborn pode ser controlado de várias formas.
+
+### Individual:
+A organização deve anotar o horário em que cada jogador eliminado chegou na **Safety Zone** e controlar o tempo em que ele deve permanecer fora do jogo, avisando o jogador quando ele estiver liberado para retorno. O jogador pode retornar imediatamente ou aguardar que algum companheiro também seja liberado para retornarem em conjunto.
+
+# Reborn e Eliminação
+
+Cabe à organização definir qual será o tempo de reborn e se ele será o mesmo para todos os jogadores. Capitães e especialistas podem ter um tempo de reborn diferenciado.
+
+## Reborn Coletivo
+
+O reborn por tempo também pode ser coletivo, sendo liberado em intervalos regulares, definidos de acordo com a duração e complexidade da missão. Nessa modalidade, todos os jogadores que estiverem aguardando retornam ao jogo ao mesmo tempo quando o reborn for liberado.
+
+### Exemplo:
+- A cada meia hora de jogo é aberta uma “janela” para reborn com duração de 5 minutos. Quem estiver aguardando reborn nesse intervalo pode voltar ao jogo. Após esses 5 minutos, quem não tiver retornado deve aguardar a próxima janela, dentro de mais meia hora.
+
+## Reborn por Número de Jogadores
+
+Nessa modalidade, o reborn é liberado sempre que se junta um determinado número de jogadores aguardando retorno.
+
+### Exemplo:
+- Sempre que houver 5 jogadores prontos para retornar ao jogo, o reborn é liberado, devendo os demais esperarem até que se forme outro grupo de 5. O número de jogadores deve ser definido pela organização, em função do número de participantes, do tempo e da complexidade da missão.
+
+## Condições Especiais
+
+- A recarga de gás será permitida durante o reborn.
+- A recarga de munição será proibida durante o reborn, salvo se transcorrido 1 hora de jogo e a cada hora.
+
+### Opções de Reborn
+
+O jogador que estiver retornando ao jogo tem duas opções de reborn:
+
+1. **Reborn ao entrar na zona de combate**: Assim que ele chegar ao local definido para reborn, deve remover o bloqueador de cano e será considerado em jogo.
+2. **Reborn atrás do último homem**: Ao escolher essa opção, o jogador deverá obrigatoriamente permanecer com o marcador bloqueado e seguir com as mãos erguidas até que encontre o último homem da sua força, independente deste ser ou não da sua equipe. Nesse momento, ele deve desbloquear o marcador, juntando-se ao companheiro em combate.
+
+## Eliminação
+
+- O jogador atingido na cabeça ou no tronco é eliminado diretamente, devendo se retirar para a **Safety Zone**. Será considerado morto ou ferido somente com o toque da bolinha "HIT", sendo assim a "sorte de guerra" abolida.
+- O jogador atingido nas pernas não é eliminado diretamente, mas não pode andar nem correr, podendo sentar, deitar ou rastejar. Ele pode aguardar pelo atendimento médico ou pode ser carregado pelos companheiros até um local seguro onde possa ser atendido (carregamento simulado). Após o atendimento, o jogador poderá voltar ao jogo, mas deverá mancar para simular o ferimento e não poderá mais correr nesta partida.
+
+# Eliminação e Rendição
+
+## Eliminação
+
+- O jogador atingido nos braços não é eliminado diretamente, mas não pode utilizar o marcador, independente do braço atingido, até que seja atendido pelo médico. O jogador pode se locomover normalmente, podendo buscar um local protegido e o atendimento médico. Após o atendimento médico, o jogador poderá utilizar somente o outro braço. O braço atingido permanecerá imobilizado por uma tipoia, não podendo mais ser utilizado nesta partida.
+  
+- Só é permitido que o jogador tenha um curativo de cada vez. Caso ele seja atingido novamente, será eliminado, mesmo que o novo tiro seja nos braços ou pernas.
+  
+- Tiros que atingirem o marcador eliminam somente o marcador. O jogador deverá permanecer em jogo e poderá usar um marcador secundário, se houver.
+
+- O jogador não poderá cometer suicídio ou se declarar morto, exceto pelo motivo de rendição.
+
+### Importante:
+
+- Tiros que acertarem cilindros ou acessórios que fiquem no colete do jogador serão considerados no tronco, sendo o jogador eliminado e devendo retirar-se para a **Safety Zone**.
+
+- Tiros que acertarem qualquer objeto portado pelo jogador, mas que não esteja junto ao corpo, como maletas, sacolas, caixas, mochilas (carregadas na mão), eliminam o objeto daquela partida. A regra não se aplica ao escudo (vide pág. 10).
+
+- Jogadores eliminados portando algum objeto devem se retirar levando o objeto consigo. Caso o jogador não esteja com o objeto no momento da eliminação, este deve ser deixado onde estava, podendo ser recuperado pelo jogador ao voltar do reborn ou por algum companheiro de equipe.
+
+- O jogador ferido continua em combate, o que significa que o adversário pode atingi-lo novamente, eliminando-o da partida.
+
+- Fogo amigo tem exatamente o mesmo efeito do fogo inimigo, ou seja, o jogador é “ferido” ou eliminado, não importa a origem do tiro.
+
+## Rendição
+
+- Tiros a curta distância deverão ser evitados, visando preservar a integridade física de todos, podendo ser oferecida a rendição nesses casos. Não é viável estabelecer uma distância mínima para considerar o tiro a queima-roupa. Cabe aos jogadores a utilização do bom senso para não colocar nenhum companheiro em risco.
+
+- A rendição será obrigatória no caso do “barrel tag”, que é quando o jogador é tocado levemente pelo adversário, com o cano do marcador ou com a mão, evitando assim tiros a distâncias muito curtas.
+
+- Será permitida a rendição opcional, onde o jogador, em posição desfavorável, poderá se declarar fora da partida.
+
+- O operador que for rendido não poderá gritar "morto" ou "rendido", saindo em silêncio com a bandeira branca acima da cabeça, assim dando crédito para o operador que foi mais esperto e competente.
+
 
