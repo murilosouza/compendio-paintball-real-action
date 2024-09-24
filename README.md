@@ -730,3 +730,78 @@ Considerando os compêndios de regras específicos de cada modalidade, define-se
 **Considere One by Two**: Ranger elimina/manda para o reborn o jogador faltoso mais dois jogadores de seu exército, os mais próximos, independente de equipe.
 
 Casos de punição que ultrapassem o tempo de evento serão passados à Federação.
+
+# Ata da Reunião dos Capitães do RS
+
+Aos dias treze de janeiro de dois mil e dezenove, reuniram-se os capitães ou representantes citados acima no campo Comando Delta na cidade de Gravataí (sede da Federação), a fim de avaliar o Compêndio Gaúcho de Real Action (CGRA).
+
+## PAUTAS DO DIA E SUAS EXECUÇÕES
+
+- **Cartão de identificação**: Foi decidido e votado que este item continua obrigatório e acrescentou o seguinte item na regra como obrigatório:
+  - Identificação visível do operador podendo ser no seu colete e/ou capacete através de um “patch manicaca (soutache)” bordado ou não, com sugestão de que seja retangular de livre escolha de tamanho e cores.
+
+- **Direito a voto da regra**: Debateu-se a cláusula de barreira para voto nas reuniões do CGRA. Foi estipulada uma participação mínima de 20% dos eventos em calendário e 1 (um) ano de existência da equipe.
+
+- **Gunner**: Foram debatidos alguns pontos deste especialista, mas no voto decidiu-se manter como está.
+
+- **Prioridade dos especialistas**: Foi debatido sobre a prioridade dos especialistas nos eventos por ordem de quantidade de operadores inscritos para preencher vagas. No voto, decidiu-se em não mexer ou incluir algum item neste sentido.
+
+- **Retirada de tópicos da regra**: Discutiu-se sobre o tamanho e número de páginas do CGRA e tópicos não mais necessários nos dias de hoje na atual evolução do esporte. Portanto, foi votado para retirar da regra os seguintes tópicos que não farão mais parte do CGRA a partir da presente data:
+  - Evento ou jogo;
+  - Infraestrutura;
+  - Safety zone;
+  - Rangers;
+  - Banheiros;
+  - Alimentação;
+  - Acomodações;
+  - Recarga de gás;
+  - Venda de bolinhas;
+  - Autoridade/serviço de emergência;
+  - Debriefing;
+  - Safety zone (novamente);
+  - Lanterna ou equivalente;
+  - Jogos indoor (urbano e CQB);
+  - Cadência de tiro;
+  - Higiene e limpeza;
+  - Para a organização;
+  - Divisão das unidades;
+  - Identificação;
+  - Início e fim de jogo;
+  - Conceito reborn, base e safety zone;
+  - Formas de reborn;
+  - Condição de reborn;
+  - Número de reborns;
+  - Reborn por tempo;
+  - Reborn por número de jogadores;
+  - Cordialidade;
+  - Espírito esportivo;
+  - Infrações e punições;
+  - Níveis de infrações;
+  - Tipo de punição;
+  - Punições aplicáveis;
+  - Relação de infrações;
+  - Moderadas;
+  - Graves;
+  - Gravíssimas;
+
+- **Granada explosiva**: Será adicionado este item, onde somente serão permitidas aquelas fornecidas pela organização do evento. As regras deste item são:
+  - A granada tem uma efetividade de um raio de 5 metros;
+  - Não serão eliminados operadores que estiverem protegidos atrás de obstáculos sólidos como, paredes, colunas, escudos ou similares;
+  - Após o acionamento da granada, ela não poderá ser tocada, chutada, ou rebatida de qualquer forma por nenhum operador.
+
+- **Artefatos pirotécnicos**: Este tópico mudará sua redação para: Utilização ou veto a critério da organização.
+
+- **Identificação**: A identificação dos exércitos agora fica a critério da organização, desde que seja de forma clara e visível.
+
+- **Sniper**: Este especialista não terá mais a restrição do tamanho de cano usado em seu marcador primário; o restante da regra se mantém a mesma.
+
+- **Condições especiais**: Cria-se um tópico com a seguinte redação: Operador que entrar no reborn por qualquer motivo será considerado morto/eliminado.
+
+- **Cartilha de rangers**: Foi deliberado pelo plenário que os capitães Sergio Guterres e Leandro Miranda farão a revisão e adição das infrações e punições para a cartilha de rangers, incluindo tópicos que foram retirados do compêndio de 2018, prescritos neste.
+
+- **Remuniciamento**: Este item que era a cada hora de jogo passa a não ser mais controlado. O controle de munição por hora será somente no início do evento; o remuniciamento durante a partida será de acordo com a sua especialidade.
+
+- **Escudo**: Adicionado a este item um adendo sobre a granada explosiva. O escudo permanece indestrutível mesmo com o uso deste artefato. Se a granada for jogada em algum local onde o operador do escudo não se cubra, como por exemplo em suas costas ou laterais do escudo, o operador estará eliminado e deverá deixar o escudo no chão no exato ponto da sua morte.
+
+- **Médico**: Neste especialista foram colocados alguns argumentos e propostas como, por exemplo, a utilização da “bolsa de sangue” na cura de um ferido. Porém, na votação decidiu-se não modificar nenhum ponto. Sendo assim, foi sugerido laboratórios durante o ano sobre tal procedimento.
+
