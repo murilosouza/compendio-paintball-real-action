@@ -1,1 +1,1 @@
-# compendio-paintball-real-action
+# Compêndio Gaúcho de Paintball Real Action
