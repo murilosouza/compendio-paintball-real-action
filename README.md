@@ -95,6 +95,7 @@ Obs.: Este material é uma transcrição do CGRA [Compêndio Gaúcho de Real Act
 - [Gravíssimas](#gravíssimas)
 - [Cilindros CO2 e HPA](#cilindros-co2-e-hpa)
 - [Comissão de discussão](#comissão-de-discussão)
+
 - [Cartilha de rangers](#cartilha-de-rangers)
 
 # Introdução
@@ -684,7 +685,7 @@ Cilindros de CO2 de alumínio e HPA de alumínio e fibra de carbono são chamado
 
 ## Comissão de Discussão
 
-Será formada por todos os capitães do RA do estado que tenham interesse, sendo que a comissão terá a periodicidade das reuniões a cada 1 (um) ano para discutir as pautas relevantes. Revisões anuais devem atender às necessidades do compêndio e seus participantes, com data pré-estabelecida para a segunda semana do mês de janeiro de 2019, local a definir pelos interessados, que será discutido nos meios de comunicação dos capitães, como Facebook e/ou WhatsApp.
+Será formada por todos os capitães do RA do estado que tenham interesse, sendo que a comissão terá a periodicidade das reuniões a cada 1 (um) ano para discutir as pautas relevantes. Revisões anuais devem atender às necessidades do compêndio e seus participantes, local a definir pelos interessados, que será discutido nos meios de comunicação dos capitães, como Facebook e/ou WhatsApp.
 
 ## Cartilha de Rangers
 
